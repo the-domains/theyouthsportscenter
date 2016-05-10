@@ -1,0 +1,28 @@
+name: TheYouthsportscenter
+favicon: null
+layout_spectrum: 0.4448233114089817
+typography_spectrum: 0.9960823522415012
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.41755732567980886
+  lightness: 0.822466152952984
+  saturation: 0.1405978745315224
+  rhythmicContrast: 0.14479804295115173
+purpose: []
