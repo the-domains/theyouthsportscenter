@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The YSC Grid 100 News & Information]]></title>
+        <description><![CDATA[The YSC Grid 100 News & Information]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 08:52:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Youthsportscenter Greatness Allowed]]></title>
+            <description><![CDATA[<article><h1>The Youthsportscenter Greatness Allowed</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e2a0e273a60e18c84ccfeba87b19de0c53b80bc.png"></article>]]></description>
+            <link>https://youtu.be/tI9I1ssyJfo</link>
+            <guid isPermaLink="false">8a00032c-1840-489d-bd2d-bff42978bfea</guid>
+            <pubDate>Tue, 10 May 2016 08:52:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
