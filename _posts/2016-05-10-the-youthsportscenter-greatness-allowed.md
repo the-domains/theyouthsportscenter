@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-10T08:52:33.967Z'
-datePublished: '2016-05-10T08:52:46.022Z'
+dateModified: '2016-05-10T08:59:33.940Z'
+datePublished: '2016-05-10T08:59:49.730Z'
 hasPage: false
 inFeed: true
 inNav: false
@@ -16,7 +16,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f1c6cc-0a62-4e9b-b3e8-0f6f8c94f2b4.png)
 
-http://www.theysc.com/\#!athletes-profiles/cqai
+* http://www.theysc.com/\#!athletes-profiles/cqai
 
 The Youthsportscenter Greatness Allowed
 
