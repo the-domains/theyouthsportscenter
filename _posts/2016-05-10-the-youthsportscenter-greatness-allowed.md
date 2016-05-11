@@ -1,20 +1,28 @@
 ---
-dateModified: '2016-05-10T08:59:33.940Z'
-datePublished: '2016-05-10T08:59:49.730Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
 isBasedOnUrl: 'https://youtu.be/tI9I1ssyJfo'
-title: The Youthsportscenter Greatness Allowed
+inLanguage: null
+keywords: []
 description: ''
+datePublished: '2016-05-11T04:36:05.985Z'
+dateModified: '2016-05-11T04:35:42.600Z'
+title: The Youthsportscenter Greatness Allowed
 author: []
-starred: false
 sourcePath: _posts/2016-05-10-the-youthsportscenter-greatness-allowed.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f1c6cc-0a62-4e9b-b3e8-0f6f8c94f2b4.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e2a0e273a60e18c84ccfeba87b19de0c53b80bc.png)
 
 * http://www.theysc.com/\#!athletes-profiles/cqai
 
